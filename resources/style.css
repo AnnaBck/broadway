@@ -16,8 +16,13 @@ font-size: 14px;}
 .design{font-family: helvetica;
 font-size: 23px;
 font-weight:bold;
-color: white;}
+color: white;
+background-image: url("building.png");}
 .footer{font-family: helvetica;
 font-size: 11px;
 color: white;
-background-color: dimgray;}
+background-color: dimgray;
+text-align:left;}
+div{background-image: url("building.png");
+text-align:center;}
+body{text-align: center;}
